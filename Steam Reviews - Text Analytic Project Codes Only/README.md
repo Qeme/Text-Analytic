@@ -28,6 +28,33 @@ This project aims to develop a sentiment analysis system for user reviews on Ste
     - Finalized CSV reviews can be acessed [here](https://drive.google.com/drive/folders/1cyj5JmU34nXtflVEVaXNJtIfuJXq6U02?usp=sharing)
 
 2. Text Preprocessing
-3. Modeling & Evaluation
-4. Visualization
-5. Sentiment Analysis
+    - Remove punctuations
+    - Converting to lowercases
+    - Remove numbers & hyphens
+    - Remove certain slang words
+    - Do tokenization
+    - Remove stopwords
+    - Do stemming & lemmatization
+  
+3. Modeling & Evaluation & Visualization
+    - Apply Naive Bayes Confusion Matrix & Classifier Report to observe how does Machine Learning predict the review either positive/negative (supervised learning)
+    - Generate Bar Chart for checking number of positive & negative reviews for each particular games
+    - Generate Pie Chart to see the percentage of positive & negative reviews for each particular games
+    - Generate Boxplot of reviews lengths by sentiment
+    - Generate Bar Chart for knowing the average word count by sentiment
+    - Generate WordCloud for positive & negative word message (to see the dominant word in the review)
+  
+4. Sentiment Analysis
+    - Based on our project result, we identify those 3 games showed overwhelmingly positive by those players within 1 year period
+    - Helldivers 2 stood out the most with a large volume of reviews.
+    - The positive response indicates these games are well-received and enjoyed by many players.
+    - The analysis benefits both players and developers:
+        - Players can make informed decisions about game choices.
+        - Developers receive valuable feedback for further game improvement.
+
+
+Thanks to all my beloved groupmates to make this final project Text Analytic happens <3
+    1. Aflah SW
+    2. Afif SW
+    3. Arinn SW
+    4. Fauzan IS
