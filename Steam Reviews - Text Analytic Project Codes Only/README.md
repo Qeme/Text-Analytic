@@ -54,7 +54,7 @@ This project aims to develop a sentiment analysis system for user reviews on Ste
 
 
 Thanks to all my beloved groupmates to make this final project Text Analytic happens <3
-    1. Aflah SW
-    2. Afif SW
-    3. Arinn SW
-    4. Fauzan IS
+1. Aflah SW
+2. Afif SW
+3. Arinn SW
+4. Fauzan IS
