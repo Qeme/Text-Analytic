@@ -52,6 +52,9 @@ This project aims to develop a sentiment analysis system for user reviews on Ste
         - Players can make informed decisions about game choices.
         - Developers receive valuable feedback for further game improvement.
 
+## Credits
+
+Lecturer: Madam Nur Laila 
 
 Thanks to all my beloved groupmates to make this final project Text Analytic happens <3
 1. Aflah SW
